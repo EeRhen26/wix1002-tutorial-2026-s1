@@ -107,21 +107,21 @@ if x>0 or y>0; ---> if (x>0 || y>0)
 
 ### Question 3a
 
-\#\#\#\#\#
+\#\#\#\#\# \
 $$$$$
 
 ### Question 3b
 
-\#\#\#\#\#
+\#\#\#\#\# \
 $$$$$
 
 ### Question 3c
 
-
+(No output)
 
 ### Question 3d
 
-$$$$$
+\$\$\$\$\$
 
 ### Question 4
 
