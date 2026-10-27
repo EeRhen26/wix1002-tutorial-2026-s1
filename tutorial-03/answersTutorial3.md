@@ -95,7 +95,7 @@ else {
 
 ### Question 2b
 
-(x>y>z) ---> (x>y && y>z)
+(x>y>z) ---> (x>y && x>z)
 
 ### Question 2c
 
