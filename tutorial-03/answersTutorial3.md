@@ -99,6 +99,7 @@ else {
 
 ### Question 2c
 
+s1 == s2 ---> s1.equals(s2)
 else (s1 != s2) ---> else
 
 ### Question 2d
